@@ -70,7 +70,7 @@ The next lecture should cover more about common sense.
 
 ---
 
-For feedback, please patch this document by pull requesting in [my github
+For feedback, please patch this document by *pull requesting* on [my github
 repo][repo]. If your uncomfortable with github, you can email me at
 <rarash@gatech.edu>.
 
